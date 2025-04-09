@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\bin\Debug\net8.0\1.4.26.exe
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\bin\Debug\net8.0\1.4.26.deps.json
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\bin\Debug\net8.0\1.4.26.runtimeconfig.json
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\bin\Debug\net8.0\1.4.26.dll
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\bin\Debug\net8.0\1.4.26.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\1.4.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\1.4.26.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\1.4.26.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\1.4.26.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\1.4.26.sourcelink.json
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\1.4.26.dll
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\refint\1.4.26.dll
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\1.4.26.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\1.4.26.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Документы\GitHub\yp.PR\1.4.26 задание\1.4.26\obj\Debug\net8.0\ref\1.4.26.dll
