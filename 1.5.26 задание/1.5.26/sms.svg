@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" id="sms">
+  <defs>
+    <linearGradient id="a" x1="2" x2="22" y1="12" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ea4335" class="stopColor16b0e2 svgShape"></stop>
+      <stop offset="1" stop-color="#4285f4" class="stopColor6e5af0 svgShape"></stop>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="b" x1="6.25" x2="17.75" y1="10.562" y2="10.562"></linearGradient>
+  </defs>
+  <g fill="#34a853" class="color000000 svgShape">
+    <path fill="url(#a)" d="M17,20.5H7c-3,0-5-1.5-5-5v-7c0-3.5,2-5,5-5H17c3,0,5,1.5,5,5v7C22,19,20,20.5,17,20.5Z" opacity=".4"></path>
+    <path fill="url(#b)" d="M12,12.87451a3.75736,3.75736,0,0,1-2.34277-.78857L6.53174,9.58545a.74968.74968,0,0,1,.93652-1.1709l3.126,2.50049a2.38973,2.38973,0,0,0,2.811,0l3.12647-2.50049a.74968.74968,0,1,1,.93652,1.1709l-3.126,2.50049A3.754,3.754,0,0,1,12,12.87451Z"></path>
+  </g>
+</svg>
