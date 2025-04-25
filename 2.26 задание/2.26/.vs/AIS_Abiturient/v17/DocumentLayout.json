@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|c:\\users\\andre\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\yp.pr\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\forms\\applicantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|solutionrelative:forms\\applicantform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\forms\\operatorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|solutionrelative:forms\\operatorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|solutionrelative:helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\helpers\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|solutionrelative:helpers\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\forms\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|solutionrelative:forms\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\forms\\panelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AIS_Abiturient.csproj|solutionrelative:forms\\panelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicantForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\ApplicantForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ApplicantForm.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\ApplicantForm.cs",
+              "RelativeToolTip": "Forms\\ApplicantForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:18:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperatorPanel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\OperatorPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\OperatorPanel.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\OperatorPanel.cs",
+              "RelativeToolTip": "Forms\\OperatorPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:06:31.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\AdminPanel.cs",
+              "RelativeToolTip": "Forms\\AdminPanel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:03:03.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:46:22.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportHelper.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Helpers\\ExportHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ExportHelper.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Helpers\\ExportHelper.cs",
+              "RelativeToolTip": "Helpers\\ExportHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:44:33.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:44:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Helpers\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Helpers\\DatabaseHelper.cs",
+              "RelativeToolTip": "Helpers\\DatabaseHelper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:55:54.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PanelBase.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\PanelBase.cs",
+              "RelativeDocumentMoniker": "Forms\\PanelBase.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\yp.PR\\2.26 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\2.26\\Forms\\PanelBase.cs",
+              "RelativeToolTip": "Forms\\PanelBase.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:04:03.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
